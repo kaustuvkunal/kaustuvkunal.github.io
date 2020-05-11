@@ -8,7 +8,7 @@ date: 2016-02-01
 location: ""
 ---
 
-Data Automation system
+A Big-data processing production system deployed over Cloud
 
 ## DAS (Data Automation system)
 
