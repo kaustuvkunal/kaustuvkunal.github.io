@@ -8,7 +8,6 @@ date: 2019-08-20
 location: 
 ---
 
-
  A comprehensive tutorial on Hive
 
 [Slides](https://www.slideshare.net/KaustuvKunal/hive-comprehensive-tutorial-233477025)
