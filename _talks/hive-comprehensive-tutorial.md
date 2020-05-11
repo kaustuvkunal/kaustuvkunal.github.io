@@ -11,6 +11,6 @@ location:
 
  A comprehensive tutorial on Hive
 
-[Slides](https://www.slideshare.net/KaustuvKunal/starting-up-with-data-science/)
+[Slides](https://www.slideshare.net/KaustuvKunal/hive-comprehensive-tutorial-233477025)
 
 [codes](https://github.com/kaustuvkunal/Hive-Tutorial)
