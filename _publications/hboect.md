@@ -7,7 +7,7 @@ venue: 'International journal of Computer Applications (IJCA)'
 citation: 'Kaustuv Kunal, R. C. Tripathi, Vrijendra Singh. An HARQ Based Optimized Error Correction Tech-nique, proceedings of International journal of Computer Applications (IJCA), 9(1): 1–5, November 2010.'
 ---
  
-[[PDF]](http://www.ijcaonline.org/archives/volume9/number1/1353-1826)  
+[[PDF]](https://www.ijcaonline.org/volume9/number1/pxc3871826.pdf)  
 
 
 ## Abstract
