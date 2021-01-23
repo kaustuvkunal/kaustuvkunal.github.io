@@ -15,6 +15,8 @@ I am an independent Big Data Science Engineer and Machine Learning & Deep Learni
 ## News
 ======
  
+-   Setting-up Big Data processing system over public cloud ? Refer this unique [cost -effective serverless](https://kaustuvkunal.github.io/files/bdsa.pdf) approach
+
 - Starting with NLP ? Find my notebooks to get started with NLP in quick time.
 	- [NLP - Machine learning Perspective](https://www.kaggle.com/kksienc/comprehensive-nlp-tutorial-1-ml-perspective)
 	- [NLP - Deep Learning Perspective](https://www.kaggle.com/kksienc/comprehensive-nlp-tutorial-2-dl-perspective)
