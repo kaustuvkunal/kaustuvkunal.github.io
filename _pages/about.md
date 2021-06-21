@@ -14,6 +14,8 @@ I am an independent Big Data Science Engineer and Machine Learning & Deep Learni
 
 ## News
 ======
+- An extensive tutorial on [Spark & It's ecosystem libraries](https://www.slideshare.net/KaustuvKunal/apache-spark-its-ecosystem-249424395)
+
  - Setting-up Big Data processing system over public cloud ? Refer this unique [Cost-Effective Serverless](https://kaustuvkunal.github.io/files/bdsa.pdf) approach.
 
 - Starting with NLP ? Find my notebooks to get started with NLP in quick time.
