@@ -8,7 +8,7 @@ date: 2021-06-16
 location: 
 ---
 
- A comprehensive tutorial on Hive
+ An Extensive tutorial on Apache Spark and It's High Level Libraries
 
 [Slides](https://www.slideshare.net/KaustuvKunal/apache-spark-its-ecosystem-249424395)
 
