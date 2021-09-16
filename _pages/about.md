@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 I am an independent Big Data Science Engineer and Machine Learning & Deep Learning Researcher at [Littilabs](http://www.littilabs.com). Formerly, I was Software Architect at [IBM](https://www.ibm.com/in-en), [Optum](https://www.optum.com/) and [Affle](https://affle.com/) and have built state-of-the-art Big Data & Data Science applications. Academically, I am Postgraduate in IT (Information Technology) from [IIITA](https://www.iiita.ac.in/) and Graduate in IT from [VTU](https://vtu.ac.in/en/). I speak English,Hindi and Kannada.
- 
 
 ## News
 ======
