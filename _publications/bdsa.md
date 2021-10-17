@@ -2,7 +2,7 @@
 title: "A cloud-based end-to-end big data log processing serverless architecture for batch analytics and modeling"
 collection: publications
 permalink: /publication/bdsa
-date: 2021-01-01
+date: 2021
 venue: ''
 citation: 'Under Review'
 ---
