@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 <br>
 <b>[A Cloud-based end-to-end big data log processing serverless architecture for batch analytics and modeling](/publication/bdsa)</b> <br> 
 <b>Kaustuv Kunal</b>
