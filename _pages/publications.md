@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+ 
+<b>[A Cloud-based end-to-end big data log processing serverless architecture for batch analytics and modeling](/publication/bdsa)</b> <br> 
+<b>Kaustuv Kunal</b>
+<i>Paper Under Review</i>.November-2021.
 
 
 <b>[Analysing Cascading over MapReduce](/publication/acom)</b> <br> 
