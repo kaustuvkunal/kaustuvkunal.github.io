@@ -10,8 +10,8 @@ redirect_from:
 
 
 Presently, I am Principal Data Scientist at [Great Learning](https://www.mygreatlearning.com/). 
-Formerly, I was an Big Data Science Engineer and Machine Learning & Deep Learning Researcher at [IBM](https://www.ibm.com/in-en), [Optum](https://www.optum.com/) and  [Affle](https://affle.com/). Also, I had founded a non-profit Data Science venture - [Littilabs](http://www.littilabs.com). 
-I have built state-of-the-art Big Data & Data Science applications. Academically, I am Postgraduate in IT (Information Technology) from [IIITA](https://www.iiita.ac.in/) and Graduate in IT from [VTU](https://vtu.ac.in/en/). I speak English,Hindi and Kannada. Contact me for any research collaboration on Data Science, NLP, Machine Learning, Deep Learning & Big Data.
+Formerly, I was an Big Data Science Engineer and Machine Learning & Deep Learning Researcher at [IBM](https://www.ibm.com/in-en), [Optum](https://www.optum.com/) and  [Affle](https://affle.com/). 
+I have built state-of-the-art Big Data & Data Science applications. Academically, I am Postgraduate in IT (Information Technology) from [IIITA](https://www.iiita.ac.in/) and Graduate in IT from [VTU](https://vtu.ac.in/en/). I speak English,Hindi and French. Contact me for any research collaboration on Data Science, NLP, Machine Learning, Deep Learning & Big Data.
 
 
 ## News
