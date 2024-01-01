@@ -19,7 +19,7 @@ I have built state-of-the-art Big Data & Data Science applications. Academically
 
 - Alpha Release [auto-ds](https://pypi.org/project/auto-ds/) : A Python library that automatically creates and optimizes machine learning pipelines.
 
-- An extensive tutorial on [Spark & Its Ecosystem Libraries](https://www.slideshare.net/KaustuvKunal/apache-spark-its-ecosystem-249424395)
+- An extensive tutorial on [Spark & Its Ecosystem Libraries](https://kaustuvkunal.github.io/files/spark.pdf)
 
  - Setting-up Big Data processing system over public cloud ? Refer this unique [Cost-Effective Serverless](https://kaustuvkunal.github.io/files/bdsa.pdf) approach.
 
