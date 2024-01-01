@@ -33,11 +33,11 @@ I have built state-of-the-art Big Data & Data Science applications. Academically
 
 - Experience end-to-end ML project by [building and deploying your first ML model](https://medium.com/@kaustuv.kunal/how-to-deploy-and-host-machine-learning-model-de8cfe4de9c5). 
  
--  A comprehensive [Hive Tutorial](https://www.slideshare.net/KaustuvKunal/hive-comprehensive-tutorial-233477025?qid=8fd1045f-2b6c-4e83-9fa1-c2b004c1f2a4&v=&b=&from_search=1).
+-  A comprehensive [Hive Tutorial](https://kaustuvkunal.github.io/files/hive.pdf).
 
 - Best of Kaggle [collection](https://www.kaggle.com/kksienc/best-of-kaggle-in-one-place).
 
-- Learn & explore finer details of [MapReduce](https://www.slideshare.net/KaustuvKunal/mapreduce-and-its-features-125034215?qid=8fd1045f-2b6c-4e83-9fa1-c2b004c1f2a4&v=&b=&from_search=3). 
+- Learn & explore finer details of [MapReduce](https://kaustuvkunal.github.io/files/mapreduce.pdf). 
 
 
  
