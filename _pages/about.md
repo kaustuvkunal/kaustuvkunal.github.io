@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-
 Presently, I am Principal Data Scientist at [Great Learning](https://www.mygreatlearning.com/). 
-Formerly, I was an Big Data Science Engineer and Machine Learning & Deep Learning Researcher at [IBM](https://www.ibm.com/in-en), [Optum](https://www.optum.com/) and  [Affle](https://affle.com/). 
-I have built state-of-the-art Big Data & Data Science applications. Academically, I am Postgraduate in IT (Information Technology) from [IIITA](https://www.iiita.ac.in/) and Graduate in IT from [VTU](https://vtu.ac.in/en/).  Contact me for any research collaboration on GenerativAI, NLP, Machine Learning, Deep Learning & Big Data.
+Formerly, I worked as a Big Data Science Engineer and ML/DL Researcher at [IBM](https://www.ibm.com/in-en), [Optum](https://www.optum.com/) and  [Affle](https://affle.com/). 
+I have state-of-the-art  big data science solutions at enterprise scale. Academically, I am Postgraduate in IT (Information Technology) from [IIITA](https://www.iiita.ac.in/) and Graduate in IT from [VTU](https://vtu.ac.in/en/).  Contact me for any research collaboration on Generativ AI, Agentic AI & Big Data.
 
 
 ## News
 ======
+
+- - **From Prototype to Production**: Learn how to build observable, evaluable GenAI systems using MLflow's prompt management and auto-optimization features in this [end-to-end demo](https://github.com/kaustuvkunal/genai-support-ticket-classifier-mlflow-demo/tree/main). [Presentation](https://github.com/kaustuvkunal/genai-support-ticket-classifier-mlflow-demo/blob/main/deck/GenAI_ApplicationDevelopment_Using_MLflow.pdf)
 
 - [GenAI-CV-Assistent](https://huggingface.co/spaces/kaustuvkunal/cv-assistant)A Generative-AI fueled CV Assistant for recruiters as well as Applicants. 
 
