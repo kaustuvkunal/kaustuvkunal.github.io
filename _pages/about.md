@@ -16,7 +16,7 @@ I have state-of-the-art  big data science solutions at enterprise scale. Academi
 ## News
 ======
 
-- - **From Prototype to Production**: Learn how to build observable, evaluable GenAI systems using MLflow's prompt management and auto-optimization features in this [end-to-end demo](https://github.com/kaustuvkunal/genai-support-ticket-classifier-mlflow-demo/tree/main). [Presentation](https://github.com/kaustuvkunal/genai-support-ticket-classifier-mlflow-demo/blob/main/deck/GenAI_ApplicationDevelopment_Using_MLflow.pdf)
+- **From Prototype to Production**: Learn how to build observable, evaluable GenAI systems using MLflow's prompt management and auto-optimization features in this [end-to-end demo](https://github.com/kaustuvkunal/genai-support-ticket-classifier-mlflow-demo/tree/main). [Presentation](https://github.com/kaustuvkunal/genai-support-ticket-classifier-mlflow-demo/blob/main/deck/GenAI_ApplicationDevelopment_Using_MLflow.pdf)
 
 - [GenAI-CV-Assistent](https://huggingface.co/spaces/kaustuvkunal/cv-assistant)A Generative-AI fueled CV Assistant for recruiters as well as Applicants. 
 
