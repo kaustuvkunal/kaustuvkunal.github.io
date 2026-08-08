@@ -14,7 +14,7 @@ I am an AI evangelist. Former - Principal Data Scientist at [Great Learning](htt
 ## News
 ======
 
-- **[Configurable Multimodal RAG](https://huggingface.co/spaces/kaustuvkunal/pdf-rag)** :Customize your RAG stack - chunking, embedding, vectorDB, LLM, & guardrails.Query a pdf and instantly compare retrieval techniques while tracing every answer back to its source.
+- **[Configurable Multimodal RAG](https://huggingface.co/spaces/kaustuvkunal/pdf-rag)** :Customize your RAG stack - chunking, embedding, vectorDB, LLM, & guardrails. Query a pdf and instantly compare retrieval techniques while tracing every answer back to its source.
 
 - **From Prototype to Production**: Learn how to build & evaluate observable GenAI systems using MLflow's Prompt management and auto-optimization features in this [end-to-end demo](https://github.com/kaustuvkunal/genai-support-ticket-classifier-mlflow-demo/tree/main). [Presentation](https://github.com/kaustuvkunal/genai-support-ticket-classifier-mlflow-demo/blob/main/deck/GenAI_ApplicationDevelopment_Using_MLflow.pdf)
 
